@@ -1,0 +1,143 @@
+{
+  "documentation": "https://opencagedata.com/api",
+  "licenses": [
+    {
+      "name": "see attribution guide",
+      "url": "https://opencagedata.com/credits"
+    }
+  ],
+  "rate": {
+    "limit": 2500,
+    "remaining": 2495,
+    "reset": 1596758400
+  },
+  "results": [
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "33\u00b0 56' 6.96264'' N",
+          "lng": "84\u00b0 17' 25.05480'' W"
+        },
+        "FIPS": {
+          "county": "13089",
+          "state": "13"
+        },
+        "MGRS": "16SGC5046058286",
+        "Maidenhead": "EM73uw54dl",
+        "Mercator": {
+          "x": -9383152.494,
+          "y": 3996260.506
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?way=9186845#map=17/33.93527/-84.29029",
+          "note_url": "https://www.openstreetmap.org/note/new#map=17/33.93527/-84.29029&layers=N",
+          "url": "https://www.openstreetmap.org/?mlat=33.93527&mlon=-84.29029#map=17/33.93527/-84.29029"
+        },
+        "UN_M49": {
+          "regions": {
+            "AMERICAS": "019",
+            "NORTHERN_AMERICA": "021",
+            "US": "840",
+            "WORLD": "001"
+          },
+          "statistical_groupings": ["MEDC"]
+        },
+        "callingcode": 1,
+        "currency": {
+          "alternate_symbols": ["US$"],
+          "decimal_mark": ".",
+          "disambiguate_symbol": "US$",
+          "html_entity": "$",
+          "iso_code": "USD",
+          "iso_numeric": "840",
+          "name": "United States Dollar",
+          "smallest_denomination": 1,
+          "subunit": "Cent",
+          "subunit_to_unit": 100,
+          "symbol": "$",
+          "symbol_first": 1,
+          "thousands_separator": ","
+        },
+        "flag": "\ud83c\uddfa\ud83c\uddf8",
+        "geohash": "dnh11ctxmb655zpb2505",
+        "qibla": 52.35,
+        "roadinfo": {
+          "drive_on": "right",
+          "road": "Riverglenn Court",
+          "speed_in": "mph"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1596711240,
+            "astronomical": 1596705660,
+            "civil": 1596709620,
+            "nautical": 1596707700
+          },
+          "set": {
+            "apparent": 1596673860,
+            "astronomical": 1596679500,
+            "civil": 1596675480,
+            "nautical": 1596677400
+          }
+        },
+        "timezone": {
+          "name": "America/New_York",
+          "now_in_dst": 1,
+          "offset_sec": -14400,
+          "offset_string": "-0400",
+          "short_name": "EDT"
+        },
+        "what3words": {
+          "words": "rivers.ruby.construction"
+        }
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 33.9353674,
+          "lng": -84.290193
+        },
+        "southwest": {
+          "lat": 33.9351674,
+          "lng": -84.290393
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "US",
+        "ISO_3166-1_alpha-3": "USA",
+        "_category": "building",
+        "_type": "building",
+        "continent": "North America",
+        "country": "United States of America",
+        "country_code": "us",
+        "county": "DeKalb County",
+        "house_number": "2496",
+        "neighbourhood": "DeKalb Highlands",
+        "postcode": "30338",
+        "road": "Riverglenn Court",
+        "state": "Georgia",
+        "state_code": "GA",
+        "town": "Dunwoody"
+      },
+      "confidence": 10,
+      "formatted": "2496 Riverglenn Court, Dunwoody, GA 30338, United States of America",
+      "geometry": {
+        "lat": 33.9352674,
+        "lng": -84.290293
+      }
+    }
+  ],
+  "status": {
+    "code": 200,
+    "message": "OK"
+  },
+  "stay_informed": {
+    "blog": "https://blog.opencagedata.com",
+    "twitter": "https://twitter.com/OpenCage"
+  },
+  "thanks": "For using an OpenCage API",
+  "timestamp": {
+    "created_http": "Thu, 06 Aug 2020 00:45:36 GMT",
+    "created_unix": 1596674736
+  },
+  "total_results": 1
+}

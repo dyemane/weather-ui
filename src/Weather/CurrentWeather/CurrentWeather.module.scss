@@ -1,0 +1,22 @@
+$primary_text_color: #666666;
+
+.container {
+  width: 12rem;
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  color: $primary_text_color;
+  font-weight: 700;
+}
+
+.location {
+  font-size: 1.5rem;
+}
+
+.temp_container {
+  display: flex;
+  overflow: hidden;
+  .temp_item {
+    flex: 1;
+  }
+}
